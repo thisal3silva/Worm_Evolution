@@ -1,0 +1,13 @@
+﻿  Worm.cpp
+c:\users\tdesilva\source\repos\evolve\src\worm.cpp(43): warning C4018: '>': signed/unsigned mismatch
+c:\users\tdesilva\source\repos\evolve\src\worm.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\tdesilva\source\repos\evolve\src\worm.cpp(92): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tdesilva\source\repos\evolve\src\worm.cpp(93): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\tdesilva\source\repos\evolve\src\worm.cpp(131): warning C4018: '<': signed/unsigned mismatch
+  CircleOfLife.cpp
+c:\users\tdesilva\source\repos\evolve\src\circleoflife.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\tdesilva\source\repos\evolve\src\circleoflife.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\tdesilva\source\repos\evolve\src\circleoflife.cpp(47): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\tdesilva\source\repos\Evolve\Debug\Evolution_Project.exe
